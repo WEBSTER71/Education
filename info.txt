@@ -1,0 +1,24 @@
+Настройка gulp
+
+npm i
+npm install gulp-terser --save-dev
+npm install webp-converter@2.2.3 --save-dev
+gulp
+
+Последующие запуски
+
+gulp
+
+Дополнительная информация
+
+запустить командную строку ctrl+shift+p
+очистить терминал ctrl+l
+
+npm cache clean --force - очистака npm
+npm i npm -g - установка npm
+
+Переустановка node-sass
+npm rebuild node-sass
+
+Проблема с pyton
+npm install --global windows-build-tools
